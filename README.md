@@ -2,3 +2,4 @@
 
  <h4>Preview </h4>
  
+![Project Preview](http://url/to/img.png)
