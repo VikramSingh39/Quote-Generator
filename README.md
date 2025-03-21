@@ -2,4 +2,4 @@
 
  <h4>Preview </h4>
  
-![Project Preview](http://url/to/img.png)
+![Project Preview](https://github.com/VikramSingh39/Quote-Generator/blob/main/random%20quote.png)
