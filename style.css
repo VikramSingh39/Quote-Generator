@@ -25,7 +25,11 @@ body {
   box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.2);
   margin: auto 12px;
 }
-
+#quote{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .quote-text {
   font-size: 2.5rem;
 }
