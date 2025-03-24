@@ -5,6 +5,6 @@
 <li>We Can Random Generate Quote </li>
 <li>We Can also share quote on twitter via tweet button directly</li>
 
- <h4>Preview </h4>
+ <h2>Project Preview </h2>
  
 ![Project Preview](https://github.com/VikramSingh39/Quote-Generator/blob/main/random%20quote.png)
